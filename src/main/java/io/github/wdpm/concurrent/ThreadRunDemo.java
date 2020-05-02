@@ -1,8 +1,8 @@
 package io.github.wdpm.concurrent;
 
 /**
- * @Created evan
- * @Date 2020/4/14
+ * @author evan
+ * @date 2020/4/14
  */
 public class ThreadRunDemo {
     public static void main(String[] args) {
