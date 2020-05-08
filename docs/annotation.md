@@ -87,3 +87,6 @@ javac -processor io.github.wdpm.annotation.javac.SimpleProcessor SimpleTest.java
 ### 应用
 - lombok
 
+## 基于注解的单元测试
+- [实现@Unit](https://lingcoder.gitee.io/onjava8/#/book/23-Annotations?id=%e5%ae%9e%e7%8e%b0-unit)
+
